@@ -1,2 +1,0 @@
-# ReactFlaskDockerTeste
-Teste de Tecnologia
